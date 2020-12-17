@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\sysio\source\repos\olcdemo\olcdemo\main.cpp(241,14): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+C:\Users\sysio\source\repos\olcdemo\olcdemo\main.cpp(241,8): warning C4244: "argument": konwersja z "float" do "int32_t", możliwa utrata danych
+  olcdemo.vcxproj -> C:\Users\sysio\source\repos\olcdemo\Debug\olcdemo.exe
