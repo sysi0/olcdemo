@@ -1,5 +1,5 @@
 # olcdemo
-pixel demo game of olc engine
+pixel demo game based on olc game engine
 
 Very minimalistic (16x16 pixels) game. Get rid of red blocks and jump into blue portal.
 
